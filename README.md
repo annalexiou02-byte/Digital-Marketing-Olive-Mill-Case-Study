@@ -3,7 +3,7 @@
 **Academic Institution:** Athens University of Economics and Business (AUEB)
 **Course:** Digital Marketing
 **Academic Year:** 2022-2023
-**Team:** [Add your team members' names here, e.g. ANNA ALEXIOU]
+
 
 ## 💡 Project Goal & Context
 
